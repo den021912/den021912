@@ -1,4 +1,4 @@
-## Hi there 👋 моё имя Денис
+## Всем привет 👋 моё имя Денис
 
 <!--
 **den021912/den021912** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
